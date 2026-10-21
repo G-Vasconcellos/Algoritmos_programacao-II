@@ -24,3 +24,7 @@ int main (){
     printf("Media %.2f", media);
     return 0;
 }
+
+
+
+// Teste Teste.
