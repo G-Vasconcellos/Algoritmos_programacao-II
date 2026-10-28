@@ -16,7 +16,7 @@ int main (){
     scanf("%s", a.nome);
     printf("Digite a nota1 ");
     scanf("%f", &a.nota1);
-    printf("Digite o nome do aluno: ");
+    printf("Digite a nome2: ");
     scanf("%f", &a.nota2);
 
     media = (a.nota1 + a.nota2) / 2;
@@ -24,7 +24,3 @@ int main (){
     printf("Media %.2f", media);
     return 0;
 }
-
-
-
-// Teste Teste.
