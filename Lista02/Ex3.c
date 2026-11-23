@@ -18,11 +18,9 @@ int main () {
 
     converteTempo(tempo, &horas, &minutos, &segundos);
 
-    printf("Horas=%d minutos= %d segundos=%d\n", horas,minutos, segundos);
+    printf("Horas= %d minutos= %d segundos= %d\n", horas,minutos, segundos);
 
 }
-
-
 
     // horas = segundos/3600
     // total-segundo = total-segundos % 3600;

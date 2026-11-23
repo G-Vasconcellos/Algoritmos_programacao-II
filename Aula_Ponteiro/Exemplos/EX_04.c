@@ -10,7 +10,7 @@ void faixa (int t1, int t2, int t3, int *maior, int *menor){
     *menor = t1;
 
     
-    if ( t2 > *maior){
+    if ( t2 > *maior){ 
         *maior = t2;
     }
 
